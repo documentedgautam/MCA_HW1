@@ -3,20 +3,20 @@ Abhishek Gautam 2017004
 
 Question1_1
 
-	Max precision: 1
-	Min precision: 0.5
-	Average precision: 0.831532006657
+	Max precision:     0.30846378321
+	Min precision:     0.12793453817
+	Average precision: 0.18415320063
 
-	Max recall: 0.81
-	Min recall: 0.0128052820
-	Average recall: 0.289721423
+	Max recall:     0.18121498974
+	Min recall:     0.01280528206
+	Average recall: 0.07897214232
 
-	Max fscore: 0.84384076903
-	Min fscore: 0.02516562533
-	Average fscore: 0.38510856894
+	Max fscore:     0.08938407690
+	Min fscore:     0.02316562533
+	Average fscore: 0.04851085689
 
-	Average good: 0.51587036165
-	Average ok: 0.3213394614
-	Average junk: 0.14674674433
+	Average good: 0.41587036165
+	Average ok:   0.31283202448
+	Average junk: 0.11791379736
 
-	Average Time: 2.44082340705 seconds
+	Average Time: 4.34740214354 seconds
