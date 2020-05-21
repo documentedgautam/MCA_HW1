@@ -1,4 +1,9 @@
 # MCA_HW1
+An Image similarity ranking based metric in which given a query of images it finds most similar images related to the query image by "color autocorrelogram" method.
+
+TO_DO
+ => Make the code generic for every system
+
 Abhishek Gautam 2017004
 
 Question1_1
